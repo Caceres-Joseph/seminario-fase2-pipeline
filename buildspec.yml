@@ -5,4 +5,5 @@ phases:
     #- composer install
   build:
     commands:
+       - echo 1
      # - phpunit tests
